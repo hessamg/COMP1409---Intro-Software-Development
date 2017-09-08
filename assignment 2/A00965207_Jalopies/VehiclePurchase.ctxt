@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=customer\ purchaseDate\ vehiclePurchased\ servicePackage
+comment0.target=VehiclePurchase(Customer,\ PurchaseDate,\ Vehicle,\ boolean)
+comment0.text=\r\n\ Default\ constructo\ for\ objects\ of\ class\ VehiclePurchase\r\n
+comment1.params=
+comment1.target=Customer\ getCustomer()
+comment1.text=\r\n\ @return\ the\ customer\ as\ a\ Customer\r\n
+comment2.params=
+comment2.target=PurchaseDate\ getPurchaseDate()
+comment2.text=\r\n\ @return\ the\ purchaseDate\ as\ a\ PurchaseDate\r\n
+comment3.params=
+comment3.target=Vehicle\ getVehiclePurchased()
+comment3.text=\r\n\ @return\ the\ vehiclePurchased\ as\ a\ Vehicle\r\n
+comment4.params=
+comment4.target=boolean\ isServicePackage()
+comment4.text=\r\n\ @return\ the\ servicePackage\ as\ a\ boolean\r\n
+comment5.params=_servicePackage
+comment5.target=void\ setServicePackage(boolean)
+comment5.text=\r\n\ @param\ _servicePackage\ sets\ servicePackage\ to\ a\ boolean\r\n
+comment6.params=purchasePrice
+comment6.target=void\ calculatePurchasePrice(double)
+comment7.params=
+comment7.target=void\ displayDetails()
+comment7.text=\r\n\ display\ VehiclePurchase's\ full\ information\ to\ the\ console\r\n
+numComments=8
